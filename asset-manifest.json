@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Payment-page/static/css/main.2f9ffaed.css",
+    "main.js": "/Payment-page/static/js/main.a19489dc.js",
+    "static/media/pay-nav.png": "/Payment-page/static/media/pay-nav.cf00d6f9a936367cf90e.png",
+    "index.html": "/Payment-page/index.html",
+    "main.2f9ffaed.css.map": "/Payment-page/static/css/main.2f9ffaed.css.map",
+    "main.a19489dc.js.map": "/Payment-page/static/js/main.a19489dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f9ffaed.css",
+    "static/js/main.a19489dc.js"
+  ]
+}
