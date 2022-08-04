@@ -1,3 +1,7 @@
+# First open command propmpt paste git clone https://github.com/6Neel9/Payment-page
+# Second write go inside the folder using cd ..
+# Write npm i
+# Write npm start to start the server
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
